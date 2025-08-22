@@ -1,4 +1,4 @@
-// File: C:\Users\dinho\Desktop\novo111\app\layout.tsx
+// File: C:\Users\dinho\Documents\GitHub\novorc\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

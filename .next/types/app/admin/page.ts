@@ -1,4 +1,4 @@
-// File: C:\Users\dinho\Desktop\novo111\app\admin\page.tsx
+// File: C:\Users\dinho\Documents\GitHub\novorc\app\admin\page.tsx
 import * as entry from '../../../../app/admin/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
