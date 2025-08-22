@@ -1,3 +1,14 @@
 {
-  "/page": "app/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/cadastro/page": "app/cadastro/page.js",
+  "/contato/page": "app/contato/page.js",
+  "/perguntas-frequentes/page": "app/perguntas-frequentes/page.js",
+  "/cliente/page": "app/cliente/page.js",
+  "/calculadora/page": "app/calculadora/page.js",
+  "/quem-somos/page": "app/quem-somos/page.js",
+  "/politica-privacidade/page": "app/politica-privacidade/page.js",
+  "/page": "app/page.js",
+  "/termos-uso/page": "app/termos-uso/page.js",
+  "/regulamento/page": "app/regulamento/page.js"
 }
